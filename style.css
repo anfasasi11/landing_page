@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15em;
+}
+
+
+.header-links {
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    margin-right: 20em;
+    
+    
+}
+a {
+    text-decoration: none;
+    text-decoration-color: none;
+}
